@@ -16,9 +16,28 @@ section{
 
 aside{
     float: right;
-    width: 32%%;
+    max-width: 31%;
     padding: 3% 2%;
     border: 1px solid black;
+}
+
+aside h3{
+    margin: .1em 0 .3em;
+    border-bottom: 1px solid gray;
+}
+
+aside p{
+    margin: 0;
+}
+
+aside .date{
+    font-size: 90%;
+    color: gray;
+}
+
+aside .newsArticle{
+    border: 1px solid black;
+    padding: .1em .25em;
 }
 
 footer{
