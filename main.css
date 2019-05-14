@@ -1,0 +1,26 @@
+html{
+    background-color: white;
+}
+
+body{
+    background-color: azure;
+    width: 98%;
+    max-width: 1024px;
+}
+
+section{
+    float: left;
+    width: 60%;
+    padding: 3% 2%;
+}
+
+aside{
+    float: right;
+    width: 32%%;
+    padding: 3% 2%;
+    border: 1px solid black;
+}
+
+footer{
+    clear: both;
+}
